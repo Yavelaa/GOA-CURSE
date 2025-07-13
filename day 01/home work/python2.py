@@ -2,7 +2,7 @@ name = "tato"            #cvladi chven shegvidzlia shevinaxot is informacia an r
 
 age = "18"
 
-number = "18"         #no classwork
+number = "18"         
 
 print(age+number)
 
