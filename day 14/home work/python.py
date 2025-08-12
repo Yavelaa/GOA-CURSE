@@ -18,7 +18,7 @@
 
 number = int(input("შეიყვანე რიცხვი: "))
 
-number % 2==0
+number / 2==2
 
 print(True or False)
 
